@@ -1,0 +1,40 @@
+=A1+B1 =A1/A1
+=A2/0
+2
+=C3+B4                 =C3+C4 =C3+D4 =C3+E4 =C3+F4 =C3+G4 =C3+H4 =C3+I4    =C3+J4 =C3+K4             =C3+L4 =C3+M4 =C3+N4               =C3+O4 =C3+P4 =C3+Q4 =C3+R4 =C3+S4             =C3+T4 =C3+U4 =C3+V4 =C3+W4 =C3+X4 =C3+Y4 =C3+Z4 =C3+AA4 =C3+AB4 =C3+AC4 =C3+A3         
+
+
+
+8 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+=AA8+AB8
+
+=A8*B8 =A8/B8 =A8-B8 =A8+B8
+=A4+B4
+=A3
+traktor
+
+=A3+traktor
+=A3+3
+=A3+3A
+=A3+A3
+
+=3A+traktor
+=3A+A3
+=3A+3A
+=3A+3A
+
+=3+3A
+=3+3
+=3+traktor
+=3+A3
+
+=traktor+3
+=traktor+3A
+=traktor+A3
+=traktor+traktor
+=BB39+AY39
+
+=a3+a3
+
+
+
